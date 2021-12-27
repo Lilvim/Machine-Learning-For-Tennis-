@@ -1,0 +1,4 @@
+Our first ever Machine Learning project with Python. We try to predict the outcome of a match between two players thanks to OnCourt Data. 
+It was my first project and now (2 years after), there is a lot of things I would do completely differently. We tried to implement the results 
+we found from the paper of M Sipko. We wrote a 'paper' to explain our work, but it's in french. Feel free to contact me if you have any question about the code.
+Our results aren't so bad ( 67% accuracy). 
